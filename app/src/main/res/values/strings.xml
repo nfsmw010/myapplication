@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="temper">%s\n%s\n%s%s</string>
+</resources>
